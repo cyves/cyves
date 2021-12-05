@@ -1,0 +1,36 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+#content {
+	padding-top: 5rem;
+}
+
+.fbox-content {
+	text-align: justify;
+}
+
+.sanierung {
+	margin-bottom: 2rem;
+}
+
+.trockenbau ul {
+	margin-left: 1.5rem;
+}
+.leistung {
+	padding: 3rem 0;
+}
+.leistung p{
+	text-align: justify;
+}
+.leistung:nth-child(even) {
+	background-color: #fcfcfc;
+}
+
+.leistung-img{
+	display: flex;
+	align-items: center;
+}
